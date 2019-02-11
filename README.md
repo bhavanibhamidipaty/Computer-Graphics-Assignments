@@ -3,13 +3,13 @@ Assignments done as part of [Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2
 
 ## Assignment 1
 A raytracer was written, and used to render spheres and more complex triangulated surfaces. Exact features implemented:
-* Simple lambertian lighting using Orthogonal projection
+* Simple lambertian lighting using Orthogonal projection<br/>
 ![Image1](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Assignment1_1.png)
-* Ambient and Specular lighting
+* Ambient and Specular lighting<br/>
 ![Image2](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Assignment1_2.png)
-* Perspective projection
+* Perspective projection<br/>
 ![Image3](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Assignment1_3.png)
-* Shadows cast by the primary light source
+* Shadows cast by the primary light source<br/>
 ![Image4](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Assignment1_4.png)
 
 ## Assignment 2

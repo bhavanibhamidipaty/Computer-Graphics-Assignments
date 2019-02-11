@@ -21,7 +21,7 @@ A 2D editor was implemented for vector graphics. All operations were performed o
 
 * Camera can be panned, zoomed-in and -out.
 
-* Bezier curves can be added.
+* Bezier curves can be added.<br/>
 [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## Assignment 3

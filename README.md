@@ -21,7 +21,7 @@ A 2D editor was implemented for vector graphics. All operations were performed o
 ![Gif2](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Asg2_2.gif)
 * Camera can be panned, zoomed-in and -out.<br/>
 ![Gif3](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Asg2_3.gif)
-* Bezier curves can be added.<br/>
+* Bezier curves can be added and the control points moved.<br/>
 ![Gif4](https://github.com/bhavanibhamidipaty/Computer-Graphics-Assignments/blob/master/Asg2_4.gif)
 
 ## Assignment 3
